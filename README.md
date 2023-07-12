@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2PaxADay
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning Figma,HTML,CSS
+- 🌱 I’m currently learning Figma,HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on anything design and front end involvement
 - 📫 Reach me on discord Koktel.Boy#1337
 
